@@ -2,4 +2,4 @@
 
 Update Project file because None related assignment content added.
 
-fix: remove none related content out from assignment
+fix: remove none related content out from assignment for simply reading
